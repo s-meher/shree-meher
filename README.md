@@ -9,9 +9,9 @@ I'm passionate about building impactful software, demystifying complex systems, 
 ## 🔥 About Me
 
 - 🎓 Computer Science major at Illinois Institute of Technology (IIT Chicago)
-- 🌟 President of ACM IIT & Accountability Director at Alpha Sigma Alpha
+- 🌟 Treasurer of ACMW IIT & Accountability Director at Alpha Sigma Alpha
 - 💡 Founder of **Underdog to Unicorn**, helping students build personal brands and land opportunities
-- ⚙️ Exploring research in VLSI, Semiconductor Electronics, AI for Bharat, and EdTech
+- ⚙️ Exploring research in teeth microcracks, AI for Bharat, and EdTech
 - 🧑‍💻 Building side projects to simplify government schemes, track internships, and gamify learning
 - 🏆 Passionate about creating a legacy of impact through technology and storytelling
 
@@ -48,8 +48,8 @@ I'm passionate about building impactful software, demystifying complex systems, 
 
 ## 📬 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shree-meher)](https://www.linkedin.com/in/shree-meher)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/shree-meher)](https://github.com/shree-meher)
-[![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=gmail&logoColor=white&link=mailto:your-email@example.com)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shree-meher-3b1727259/)](https://www.linkedin.com/in/shree-meher-3b1727259/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/s-meher)](https://github.com/s-meher)
+[![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=gmail&logoColor=white&link=mailto:shreemeher05@gmail.com)](mailto:shreemeher05@gmail.com)
 
 💡 *Always learning, always building. Let's connect and create something extraordinary! 🚀*
